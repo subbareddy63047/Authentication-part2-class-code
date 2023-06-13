@@ -1,0 +1,14 @@
+/* Write your CSS code here */
+/* Write your CSS code here */
+.products-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 70%;
+  width: 90%;
+}
+.product-img {
+  height: 20%;
+  width: 20%;
+}
